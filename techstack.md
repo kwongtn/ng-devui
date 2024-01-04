@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 kwongtn/ng-devui is built on the following main stack:
+
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
@@ -18,11 +19,13 @@ kwongtn/ng-devui is built on the following main stack:
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 kwongtn/ng-devui is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
@@ -39,14 +42,15 @@ kwongtn/ng-devui is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [kwongtn/ng-devui](https://github.com/kwongtn/ng-devui)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|67<br/>Tools used|11/09/23 <br/>Report generated|
+|69<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -225,9 +229,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (48)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (50)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (48)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (50)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -259,6 +263,7 @@ Full tech stack [here](/techstack.md)
 |[color](https://www.npmjs.com/color)|v3.1.3|06/03/21|wangyaju |MIT|N/A|
 |[core-js](https://www.npmjs.com/core-js)|v3.18.3|08/31/22|wangyaju |MIT|N/A|
 |[html-loader](https://www.npmjs.com/html-loader)|v1.3.0|01/25/22|wangyaju |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.0|10/10/20|wangyaju |MIT|N/A|
 |[jasmine-core](https://www.npmjs.com/jasmine-core)|v3.6.0|08/31/22|wangyaju |MIT|N/A|
 |[jasmine-spec-reporter](https://www.npmjs.com/jasmine-spec-reporter)|v5.0.0|02/18/21|wangyaju |Apache-2.0|N/A|
 |[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v3.1.0|04/12/22|wangyaju |MIT|N/A|
@@ -266,6 +271,7 @@ Full tech stack [here](/techstack.md)
 |[karma-jasmine](https://www.npmjs.com/karma-jasmine)|v4.0.0|04/12/22|wangyaju |MIT|N/A|
 |[karma-jasmine-html-reporter](https://www.npmjs.com/karma-jasmine-html-reporter)|v1.5.0|04/12/22|wangyaju |MIT|N/A|
 |[karma-junit-reporter](https://www.npmjs.com/karma-junit-reporter)|v2.0.1|04/12/22|wangyaju |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v9.2.3|08/31/22|wangyaju |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.11|03/23/20|huaweidevcloud |MIT|[CVE-2019-10744](https://github.com/advisories/GHSA-jf85-cpcp-j695) (Critical)<br/>[CVE-2020-8203](https://github.com/advisories/GHSA-p6mc-m468-83gw) (High)<br/>[CVE-2021-23337](https://github.com/advisories/GHSA-35jh-r3h4-6jhm) (High)<br/>[CVE-2020-28500](https://github.com/advisories/GHSA-29mw-wpgm-hmr9) (Moderate)|
 |[markdown-loader](https://www.npmjs.com/markdown-loader)|v5.1.0|04/12/22|wangyaju |MIT|N/A|
 |[marked](https://www.npmjs.com/marked)|v4.0.10|04/12/22|wangyaju |MIT|N/A|
@@ -283,4 +289,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
